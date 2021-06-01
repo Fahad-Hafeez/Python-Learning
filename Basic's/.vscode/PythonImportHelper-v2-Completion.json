@@ -1,0 +1,2038 @@
+[
+    {
+        "label": "emoji",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "emoji",
+        "description": "emoji",
+        "detail": "emoji",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "converters",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "converters",
+        "description": "converters",
+        "detail": "converters",
+        "documentation": {}
+    },
+    {
+        "label": "kg_to_lb",
+        "importPath": "converters",
+        "description": "converters",
+        "isExtraImport": true,
+        "detail": "converters",
+        "documentation": {}
+    },
+    {
+        "label": "find_max",
+        "importPath": "utills",
+        "description": "utills",
+        "isExtraImport": true,
+        "detail": "utills",
+        "documentation": {}
+    },
+    {
+        "label": "calc_shipping",
+        "importPath": "Ecommerce.shipping",
+        "description": "Ecommerce.shipping",
+        "isExtraImport": true,
+        "detail": "Ecommerce.shipping",
+        "documentation": {}
+    },
+    {
+        "label": "openpyxl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openpyxl",
+        "description": "openpyxl",
+        "detail": "openpyxl",
+        "documentation": {}
+    },
+    {
+        "label": "BarChart",
+        "importPath": "openpyxl.chart",
+        "description": "openpyxl.chart",
+        "isExtraImport": true,
+        "detail": "openpyxl.chart",
+        "documentation": {}
+    },
+    {
+        "label": "Reference",
+        "importPath": "openpyxl.chart",
+        "description": "openpyxl.chart",
+        "isExtraImport": true,
+        "detail": "openpyxl.chart",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "matrix",
+        "kind": 5,
+        "importPath": "2D Lists.2D Lists1",
+        "description": "2D Lists.2D Lists1",
+        "peekOfCode": "matrix = [\n    [1, 2, 3],\n    [4, 5, 6], \n    [7, 8, 9],\n]\nmatrix[0][1] = 20\nprint(matrix[0][1])\nfor row in matrix:\n    for item in row:\n        print(item)",
+        "detail": "2D Lists.2D Lists1",
+        "documentation": {}
+    },
+    {
+        "label": "matrix[0][1]",
+        "kind": 5,
+        "importPath": "2D Lists.2D Lists1",
+        "description": "2D Lists.2D Lists1",
+        "peekOfCode": "matrix[0][1] = 20\nprint(matrix[0][1])\nfor row in matrix:\n    for item in row:\n        print(item)",
+        "detail": "2D Lists.2D Lists1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Arithmetc Operations.ArrithmeticOperations1",
+        "description": "Arithmetc Operations.ArrithmeticOperations1",
+        "peekOfCode": "x = 10\nx = x + 3\n#x += 3\nx = x - 3\n#x -= 3\nx = x * 3\n#x *= 3\nx = x / 3\n#x /= 3\nprint(x)",
+        "detail": "Arithmetc Operations.ArrithmeticOperations1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Arithmetc Operations.ArrithmeticOperations1",
+        "description": "Arithmetc Operations.ArrithmeticOperations1",
+        "peekOfCode": "x = x + 3\n#x += 3\nx = x - 3\n#x -= 3\nx = x * 3\n#x *= 3\nx = x / 3\n#x /= 3\nprint(x)",
+        "detail": "Arithmetc Operations.ArrithmeticOperations1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Arithmetc Operations.ArrithmeticOperations1",
+        "description": "Arithmetc Operations.ArrithmeticOperations1",
+        "peekOfCode": "x = x - 3\n#x -= 3\nx = x * 3\n#x *= 3\nx = x / 3\n#x /= 3\nprint(x)",
+        "detail": "Arithmetc Operations.ArrithmeticOperations1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Arithmetc Operations.ArrithmeticOperations1",
+        "description": "Arithmetc Operations.ArrithmeticOperations1",
+        "peekOfCode": "x = x * 3\n#x *= 3\nx = x / 3\n#x /= 3\nprint(x)",
+        "detail": "Arithmetc Operations.ArrithmeticOperations1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Arithmetc Operations.ArrithmeticOperations1",
+        "description": "Arithmetc Operations.ArrithmeticOperations1",
+        "peekOfCode": "x = x / 3\n#x /= 3\nprint(x)",
+        "detail": "Arithmetc Operations.ArrithmeticOperations1",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "Classes.1",
+        "description": "Classes.1",
+        "peekOfCode": "class Point:\n    def move(self):\n        print(\"move\")\n    def draw(self):\n        print(\"draw\")\npoint1 = Point()\npoint1.x = 10\npoint1.y = 20\nprint(point1.x)\npoint1.draw()",
+        "detail": "Classes.1",
+        "documentation": {}
+    },
+    {
+        "label": "point1",
+        "kind": 5,
+        "importPath": "Classes.1",
+        "description": "Classes.1",
+        "peekOfCode": "point1 = Point()\npoint1.x = 10\npoint1.y = 20\nprint(point1.x)\npoint1.draw()\npoint2 = Point()\npoint2.x = 1\nprint(point2.x)",
+        "detail": "Classes.1",
+        "documentation": {}
+    },
+    {
+        "label": "point1.x",
+        "kind": 5,
+        "importPath": "Classes.1",
+        "description": "Classes.1",
+        "peekOfCode": "point1.x = 10\npoint1.y = 20\nprint(point1.x)\npoint1.draw()\npoint2 = Point()\npoint2.x = 1\nprint(point2.x)",
+        "detail": "Classes.1",
+        "documentation": {}
+    },
+    {
+        "label": "point1.y",
+        "kind": 5,
+        "importPath": "Classes.1",
+        "description": "Classes.1",
+        "peekOfCode": "point1.y = 20\nprint(point1.x)\npoint1.draw()\npoint2 = Point()\npoint2.x = 1\nprint(point2.x)",
+        "detail": "Classes.1",
+        "documentation": {}
+    },
+    {
+        "label": "point2",
+        "kind": 5,
+        "importPath": "Classes.1",
+        "description": "Classes.1",
+        "peekOfCode": "point2 = Point()\npoint2.x = 1\nprint(point2.x)",
+        "detail": "Classes.1",
+        "documentation": {}
+    },
+    {
+        "label": "point2.x",
+        "kind": 5,
+        "importPath": "Classes.1",
+        "description": "Classes.1",
+        "peekOfCode": "point2.x = 1\nprint(point2.x)",
+        "detail": "Classes.1",
+        "documentation": {}
+    },
+    {
+        "label": "temperature",
+        "kind": 5,
+        "importPath": "Comparision Operators.Comparision Operators1",
+        "description": "Comparision Operators.Comparision Operators1",
+        "peekOfCode": "temperature = 35\nif temperature > 30: \n    print(\"It's a hot day\")\nelse:\n    print(\"It's not a hot day\")",
+        "detail": "Comparision Operators.Comparision Operators1",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Comparision Operators.Comparision Operatos2",
+        "description": "Comparision Operators.Comparision Operatos2",
+        "peekOfCode": "name = \"Fahad Hafeez\"\nprint(len(name))\nif len(name) < 3:\n    print(\"Name must be at least 3 characters long\")\nelif len(name) > 50: \n    print(\"Name must be a maximum of 50 characters long\")\nelse:\n    print(\"Name looks good\")",
+        "detail": "Comparision Operators.Comparision Operatos2",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "Constructors.1",
+        "description": "Constructors.1",
+        "peekOfCode": "class Point:\n    def __init__(self, x, y):\n        self.x = x\n        self.y = y\n    def move(self):\n        print(\"move\")\n    def draw(self):\n        print(\"draw\")\npoint = Point(10, 20)\npoint.x = 11",
+        "detail": "Constructors.1",
+        "documentation": {}
+    },
+    {
+        "label": "point",
+        "kind": 5,
+        "importPath": "Constructors.1",
+        "description": "Constructors.1",
+        "peekOfCode": "point = Point(10, 20)\npoint.x = 11\nprint(point.x)",
+        "detail": "Constructors.1",
+        "documentation": {}
+    },
+    {
+        "label": "point.x",
+        "kind": 5,
+        "importPath": "Constructors.1",
+        "description": "Constructors.1",
+        "peekOfCode": "point.x = 11\nprint(point.x)",
+        "detail": "Constructors.1",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "Constructors.2",
+        "description": "Constructors.2",
+        "peekOfCode": "class Person:\n    def __init__(self, name):\n        self.name = name\n        print(f\"Hi, I am {self.name}\")\njohn = Person(\"John Smith\")\njohn.talk()\nbob = Person(\"Bob Smith\")\nbob.talk()",
+        "detail": "Constructors.2",
+        "documentation": {}
+    },
+    {
+        "label": "john",
+        "kind": 5,
+        "importPath": "Constructors.2",
+        "description": "Constructors.2",
+        "peekOfCode": "john = Person(\"John Smith\")\njohn.talk()\nbob = Person(\"Bob Smith\")\nbob.talk()",
+        "detail": "Constructors.2",
+        "documentation": {}
+    },
+    {
+        "label": "bob",
+        "kind": 5,
+        "importPath": "Constructors.2",
+        "description": "Constructors.2",
+        "peekOfCode": "bob = Person(\"Bob Smith\")\nbob.talk()",
+        "detail": "Constructors.2",
+        "documentation": {}
+    },
+    {
+        "label": "emoji_converter",
+        "kind": 2,
+        "importPath": "Creating Reusable Function.1",
+        "description": "Creating Reusable Function.1",
+        "peekOfCode": "def emoji_converter(message):\n    words = message.split(\" \")\n    emojis = {\n        \":)\": \"😊\",\n        \":(\": \"😠\"\n    }\n    output = \"\"\n    for word in words:\n        output += emojis.get(word, word) + \" \"\n    return output",
+        "detail": "Creating Reusable Function.1",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "Creating Reusable Function.1",
+        "description": "Creating Reusable Function.1",
+        "peekOfCode": "message = input(\">\")\nprint(emoji_converter(message))",
+        "detail": "Creating Reusable Function.1",
+        "documentation": {}
+    },
+    {
+        "label": "customer",
+        "kind": 5,
+        "importPath": "Dictionaries.1",
+        "description": "Dictionaries.1",
+        "peekOfCode": "customer = {\n    \"name\": \"Fahad Hafeez\",\n    \"age\": 30,\n    \"is_verified\": True,\n}\ncustomer[\"name\"] = \"Fahad Hafeez\"\nprint(customer[\"name\"])",
+        "detail": "Dictionaries.1",
+        "documentation": {}
+    },
+    {
+        "label": "customer[\"name\"]",
+        "kind": 5,
+        "importPath": "Dictionaries.1",
+        "description": "Dictionaries.1",
+        "peekOfCode": "customer[\"name\"] = \"Fahad Hafeez\"\nprint(customer[\"name\"])",
+        "detail": "Dictionaries.1",
+        "documentation": {}
+    },
+    {
+        "label": "customer",
+        "kind": 5,
+        "importPath": "Dictionaries.2",
+        "description": "Dictionaries.2",
+        "peekOfCode": "customer = {\n    \"name\": \"Fahad Hafeez\",\n    \"age\": 30,\n    \"is_verified\": True,\n}\ncustomer[\"name\"] = \"Fahad Hafeez\"\nprint(customer.get(\"birthdate\", \"Oct 18 2005\"))",
+        "detail": "Dictionaries.2",
+        "documentation": {}
+    },
+    {
+        "label": "customer[\"name\"]",
+        "kind": 5,
+        "importPath": "Dictionaries.2",
+        "description": "Dictionaries.2",
+        "peekOfCode": "customer[\"name\"] = \"Fahad Hafeez\"\nprint(customer.get(\"birthdate\", \"Oct 18 2005\"))",
+        "detail": "Dictionaries.2",
+        "documentation": {}
+    },
+    {
+        "label": "customer",
+        "kind": 5,
+        "importPath": "Dictionaries.3",
+        "description": "Dictionaries.3",
+        "peekOfCode": "customer = {\n    \"name\": \"Fahad Hafeez\",\n    \"age\": 15,\n    \"is_verified\": True,\n}\ncustomer[\"Birthdate\"] = \"Oct 18 2005\"\nprint(customer[\"Birthdate\"])",
+        "detail": "Dictionaries.3",
+        "documentation": {}
+    },
+    {
+        "label": "customer[\"Birthdate\"]",
+        "kind": 5,
+        "importPath": "Dictionaries.3",
+        "description": "Dictionaries.3",
+        "peekOfCode": "customer[\"Birthdate\"] = \"Oct 18 2005\"\nprint(customer[\"Birthdate\"])",
+        "detail": "Dictionaries.3",
+        "documentation": {}
+    },
+    {
+        "label": "phone",
+        "kind": 5,
+        "importPath": "Dictionaries.4",
+        "description": "Dictionaries.4",
+        "peekOfCode": "phone = input(\"Phone: \")\ndigits_mapping = {\n    \"1\": \" One\",\n    \"2\": \" Two\",\n    \"3\": \" Three\",\n    \"4\": \" Four\",\n    \"5\": \" Five\",\n    \"6\": \" Six\",\n    \"7\": \" Seven\",\n    \"8\": \" Eight\",",
+        "detail": "Dictionaries.4",
+        "documentation": {}
+    },
+    {
+        "label": "digits_mapping",
+        "kind": 5,
+        "importPath": "Dictionaries.4",
+        "description": "Dictionaries.4",
+        "peekOfCode": "digits_mapping = {\n    \"1\": \" One\",\n    \"2\": \" Two\",\n    \"3\": \" Three\",\n    \"4\": \" Four\",\n    \"5\": \" Five\",\n    \"6\": \" Six\",\n    \"7\": \" Seven\",\n    \"8\": \" Eight\",\n    \"9\": \" Nine\",",
+        "detail": "Dictionaries.4",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "Dictionaries.4",
+        "description": "Dictionaries.4",
+        "peekOfCode": "output = \"\"\nfor ch in phone:\n    output += digits_mapping.get(ch, \"!\")\nprint(output)",
+        "detail": "Dictionaries.4",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "Emoji Converters.1",
+        "description": "Emoji Converters.1",
+        "peekOfCode": "message = input(\">\")\nwords = message.split('Good morning')\nemojis = {\n    \":)\": \"\",\n    \":(\": \"\"\n}\noutput = \"\"\nfor word in words:\n    output += emojis.get(word, word) + \"\"\nprint(output)",
+        "detail": "Emoji Converters.1",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "Emoji Converters.1",
+        "description": "Emoji Converters.1",
+        "peekOfCode": "words = message.split('Good morning')\nemojis = {\n    \":)\": \"\",\n    \":(\": \"\"\n}\noutput = \"\"\nfor word in words:\n    output += emojis.get(word, word) + \"\"\nprint(output)",
+        "detail": "Emoji Converters.1",
+        "documentation": {}
+    },
+    {
+        "label": "emojis",
+        "kind": 5,
+        "importPath": "Emoji Converters.1",
+        "description": "Emoji Converters.1",
+        "peekOfCode": "emojis = {\n    \":)\": \"\",\n    \":(\": \"\"\n}\noutput = \"\"\nfor word in words:\n    output += emojis.get(word, word) + \"\"\nprint(output)",
+        "detail": "Emoji Converters.1",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "Emoji Converters.1",
+        "description": "Emoji Converters.1",
+        "peekOfCode": "output = \"\"\nfor word in words:\n    output += emojis.get(word, word) + \"\"\nprint(output)",
+        "detail": "Emoji Converters.1",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "Emoji Converters.2",
+        "description": "Emoji Converters.2",
+        "peekOfCode": "message = input(\">\")\nwords = message.split(' ')\nemojis = {\n    \":)\": \":😊\",\n    \":(\": \"😭\"\n}\noutput = \"\"\nfor word in words:\n    output += emojis.get(word, word) + \" \"\nprint(output)",
+        "detail": "Emoji Converters.2",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "Emoji Converters.2",
+        "description": "Emoji Converters.2",
+        "peekOfCode": "words = message.split(' ')\nemojis = {\n    \":)\": \":😊\",\n    \":(\": \"😭\"\n}\noutput = \"\"\nfor word in words:\n    output += emojis.get(word, word) + \" \"\nprint(output)",
+        "detail": "Emoji Converters.2",
+        "documentation": {}
+    },
+    {
+        "label": "emojis",
+        "kind": 5,
+        "importPath": "Emoji Converters.2",
+        "description": "Emoji Converters.2",
+        "peekOfCode": "emojis = {\n    \":)\": \":😊\",\n    \":(\": \"😭\"\n}\noutput = \"\"\nfor word in words:\n    output += emojis.get(word, word) + \" \"\nprint(output)",
+        "detail": "Emoji Converters.2",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "Emoji Converters.2",
+        "description": "Emoji Converters.2",
+        "peekOfCode": "output = \"\"\nfor word in words:\n    output += emojis.get(word, word) + \" \"\nprint(output)",
+        "detail": "Emoji Converters.2",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Files and Directories.1",
+        "description": "Files and Directories.1",
+        "peekOfCode": "path = Path('Emails')\nprint(path.rmdir())\npath = Path(\"Emails\")\nprint(path.exist())\npath = Path('Emails')\nprint(path.mkdir())\npath = Path('Emails')\nprint(path.rmdir())\npath = Path()\nfor file in path.glob('*'):",
+        "detail": "Files and Directories.1",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Files and Directories.1",
+        "description": "Files and Directories.1",
+        "peekOfCode": "path = Path(\"Emails\")\nprint(path.exist())\npath = Path('Emails')\nprint(path.mkdir())\npath = Path('Emails')\nprint(path.rmdir())\npath = Path()\nfor file in path.glob('*'):\n    print(file)\npath = Path()",
+        "detail": "Files and Directories.1",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Files and Directories.1",
+        "description": "Files and Directories.1",
+        "peekOfCode": "path = Path('Emails')\nprint(path.mkdir())\npath = Path('Emails')\nprint(path.rmdir())\npath = Path()\nfor file in path.glob('*'):\n    print(file)\npath = Path()\nfor file in path.glob('*.py'):\n    print(file)",
+        "detail": "Files and Directories.1",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Files and Directories.1",
+        "description": "Files and Directories.1",
+        "peekOfCode": "path = Path('Emails')\nprint(path.rmdir())\npath = Path()\nfor file in path.glob('*'):\n    print(file)\npath = Path()\nfor file in path.glob('*.py'):\n    print(file)",
+        "detail": "Files and Directories.1",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Files and Directories.1",
+        "description": "Files and Directories.1",
+        "peekOfCode": "path = Path()\nfor file in path.glob('*'):\n    print(file)\npath = Path()\nfor file in path.glob('*.py'):\n    print(file)",
+        "detail": "Files and Directories.1",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Files and Directories.1",
+        "description": "Files and Directories.1",
+        "peekOfCode": "path = Path()\nfor file in path.glob('*.py'):\n    print(file)",
+        "detail": "Files and Directories.1",
+        "documentation": {}
+    },
+    {
+        "label": "prices",
+        "kind": 5,
+        "importPath": "For Loops.For Loops2",
+        "description": "For Loops.For Loops2",
+        "peekOfCode": "prices = [10, 20, 30]\ntotal = 0\nfor price in prices:\n    total = total + price\nprint(f\"Total= {total}\")",
+        "detail": "For Loops.For Loops2",
+        "documentation": {}
+    },
+    {
+        "label": "total",
+        "kind": 5,
+        "importPath": "For Loops.For Loops2",
+        "description": "For Loops.For Loops2",
+        "peekOfCode": "total = 0\nfor price in prices:\n    total = total + price\nprint(f\"Total= {total}\")",
+        "detail": "For Loops.For Loops2",
+        "documentation": {}
+    },
+    {
+        "label": "first",
+        "kind": 5,
+        "importPath": "Formatted Strings.formattedstrings",
+        "description": "Formatted Strings.formattedstrings",
+        "peekOfCode": "first = \"Fahad\"\nlast = \"Hafeez\"\nmessage = first + '[' + last + '] is a coder'\nmsg = f'{first} [{last}] is a coder'\nprint(msg)",
+        "detail": "Formatted Strings.formattedstrings",
+        "documentation": {}
+    },
+    {
+        "label": "last",
+        "kind": 5,
+        "importPath": "Formatted Strings.formattedstrings",
+        "description": "Formatted Strings.formattedstrings",
+        "peekOfCode": "last = \"Hafeez\"\nmessage = first + '[' + last + '] is a coder'\nmsg = f'{first} [{last}] is a coder'\nprint(msg)",
+        "detail": "Formatted Strings.formattedstrings",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "Formatted Strings.formattedstrings",
+        "description": "Formatted Strings.formattedstrings",
+        "peekOfCode": "message = first + '[' + last + '] is a coder'\nmsg = f'{first} [{last}] is a coder'\nprint(msg)",
+        "detail": "Formatted Strings.formattedstrings",
+        "documentation": {}
+    },
+    {
+        "label": "msg",
+        "kind": 5,
+        "importPath": "Formatted Strings.formattedstrings",
+        "description": "Formatted Strings.formattedstrings",
+        "peekOfCode": "msg = f'{first} [{last}] is a coder'\nprint(msg)",
+        "detail": "Formatted Strings.formattedstrings",
+        "documentation": {}
+    },
+    {
+        "label": "greet_user",
+        "kind": 2,
+        "importPath": "Functions.Functions1",
+        "description": "Functions.Functions1",
+        "peekOfCode": "def greet_user():\n    print('Hi There!')\n    print('Welcome Aboard')\nprint(\"Start\")\ngreet_user()\nprint(\"Finish\")",
+        "detail": "Functions.Functions1",
+        "documentation": {}
+    },
+    {
+        "label": "members",
+        "kind": 5,
+        "importPath": "Generating Random Values.1",
+        "description": "Generating Random Values.1",
+        "peekOfCode": "members = ['John', 'Mary', 'Bob', 'Fahad']\nleader = random.choice(members)\nprint(leader)",
+        "detail": "Generating Random Values.1",
+        "documentation": {}
+    },
+    {
+        "label": "leader",
+        "kind": 5,
+        "importPath": "Generating Random Values.1",
+        "description": "Generating Random Values.1",
+        "peekOfCode": "leader = random.choice(members)\nprint(leader)",
+        "detail": "Generating Random Values.1",
+        "documentation": {}
+    },
+    {
+        "label": "Dice",
+        "kind": 6,
+        "importPath": "Generating Random Values.2",
+        "description": "Generating Random Values.2",
+        "peekOfCode": "class Dice:\n    def roll(self):\n        first = random.randint(1, 6)\n        second = random.randint(1, 6)\n        return first, second\ndice = Dice()\nprint(dice.roll())",
+        "detail": "Generating Random Values.2",
+        "documentation": {}
+    },
+    {
+        "label": "dice",
+        "kind": 5,
+        "importPath": "Generating Random Values.2",
+        "description": "Generating Random Values.2",
+        "peekOfCode": "dice = Dice()\nprint(dice.roll())",
+        "detail": "Generating Random Values.2",
+        "documentation": {}
+    },
+    {
+        "label": "is_hot",
+        "kind": 5,
+        "importPath": "If Statements.if statements",
+        "description": "If Statements.if statements",
+        "peekOfCode": "is_hot = False\nis_cold = False\nif is_hot: \n    print(\"It's a hot day\")\n    print(\"Drink plenty of water, since it's hot today\")\nelif is_cold:\n    print(\"It's a cold day\")\n    print(\"Make sure to wear warm clothes\")\nelse:\n    print(\"It's a lovely day\")",
+        "detail": "If Statements.if statements",
+        "documentation": {}
+    },
+    {
+        "label": "is_cold",
+        "kind": 5,
+        "importPath": "If Statements.if statements",
+        "description": "If Statements.if statements",
+        "peekOfCode": "is_cold = False\nif is_hot: \n    print(\"It's a hot day\")\n    print(\"Drink plenty of water, since it's hot today\")\nelif is_cold:\n    print(\"It's a cold day\")\n    print(\"Make sure to wear warm clothes\")\nelse:\n    print(\"It's a lovely day\")",
+        "detail": "If Statements.if statements",
+        "documentation": {}
+    },
+    {
+        "label": "price",
+        "kind": 5,
+        "importPath": "If Statements.if statements2",
+        "description": "If Statements.if statements2",
+        "peekOfCode": "price = 1000000\nhas_good_credit = True\nif has_good_credit:\n    down_payment = 0.1 * price\nelse:\n    down_paymet = 0.2 * price\nprint(f\"Down Payment: £{down_payment}\")",
+        "detail": "If Statements.if statements2",
+        "documentation": {}
+    },
+    {
+        "label": "has_good_credit",
+        "kind": 5,
+        "importPath": "If Statements.if statements2",
+        "description": "If Statements.if statements2",
+        "peekOfCode": "has_good_credit = True\nif has_good_credit:\n    down_payment = 0.1 * price\nelse:\n    down_paymet = 0.2 * price\nprint(f\"Down Payment: £{down_payment}\")",
+        "detail": "If Statements.if statements2",
+        "documentation": {}
+    },
+    {
+        "label": "Mammal",
+        "kind": 6,
+        "importPath": "Inheritance.1",
+        "description": "Inheritance.1",
+        "peekOfCode": "class Mammal:\n    def walk(self):\n        print(\"walk\")\nclass Dog(Mammal):\n    def bark(self):\n        print(\"bark\")\nclass Cat(Mammal):\n    def be_annoying(self):\n        print(\"annoying\")\ndog1 = Dog()",
+        "detail": "Inheritance.1",
+        "documentation": {}
+    },
+    {
+        "label": "Dog",
+        "kind": 6,
+        "importPath": "Inheritance.1",
+        "description": "Inheritance.1",
+        "peekOfCode": "class Dog(Mammal):\n    def bark(self):\n        print(\"bark\")\nclass Cat(Mammal):\n    def be_annoying(self):\n        print(\"annoying\")\ndog1 = Dog()\ndog1.walk()\ncat1 = Cat()\ncat1.walk()",
+        "detail": "Inheritance.1",
+        "documentation": {}
+    },
+    {
+        "label": "Cat",
+        "kind": 6,
+        "importPath": "Inheritance.1",
+        "description": "Inheritance.1",
+        "peekOfCode": "class Cat(Mammal):\n    def be_annoying(self):\n        print(\"annoying\")\ndog1 = Dog()\ndog1.walk()\ncat1 = Cat()\ncat1.walk()",
+        "detail": "Inheritance.1",
+        "documentation": {}
+    },
+    {
+        "label": "dog1",
+        "kind": 5,
+        "importPath": "Inheritance.1",
+        "description": "Inheritance.1",
+        "peekOfCode": "dog1 = Dog()\ndog1.walk()\ncat1 = Cat()\ncat1.walk()",
+        "detail": "Inheritance.1",
+        "documentation": {}
+    },
+    {
+        "label": "cat1",
+        "kind": 5,
+        "importPath": "Inheritance.1",
+        "description": "Inheritance.1",
+        "peekOfCode": "cat1 = Cat()\ncat1.walk()",
+        "detail": "Inheritance.1",
+        "documentation": {}
+    },
+    {
+        "label": "greet_user",
+        "kind": 2,
+        "importPath": "KeywordArguements.1",
+        "description": "KeywordArguements.1",
+        "peekOfCode": "def greet_user(first_name, last_name):\n    print(f'Hi {first_name} {last_name}!')\n    print('Welcome aboard')\nprint(\"Start\")\ngreet_user(last_name=\"Smith\", first_name=\"John\")\nprint(\"Finish\")\ndef greet_user(first_name, last_name):\n    print(f'Hi {first_name} {last_name}!')\n    print('Welcome aboard')\nprint(\"Start\")",
+        "detail": "KeywordArguements.1",
+        "documentation": {}
+    },
+    {
+        "label": "greet_user",
+        "kind": 2,
+        "importPath": "KeywordArguements.1",
+        "description": "KeywordArguements.1",
+        "peekOfCode": "def greet_user(first_name, last_name):\n    print(f'Hi {first_name} {last_name}!')\n    print('Welcome aboard')\nprint(\"Start\")\ngreet_user(\"John\", \"Smith\")\nprint(\"Finish\")",
+        "detail": "KeywordArguements.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nnumbers.append(20)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.insert(0,10)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.remove(5)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nnumbers.insert(0,10)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.remove(5)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.clear(2)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nnumbers.remove(5)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.clear(2)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.pop()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nnumbers.clear(2)\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.pop()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nprint(50 in numbers)\nnumbers = [5, 2, 1, 7, 4]\nprint(numbers.count(5))",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nnumbers.pop()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nprint(50 in numbers)\nnumbers = [5, 2, 1, 7, 4]\nprint(numbers.count(5))\nnumbers = [5, 2, 1, 7, 4]\nnumbers.sort()\nprint(numbers)",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nprint(50 in numbers)\nnumbers = [5, 2, 1, 7, 4]\nprint(numbers.count(5))\nnumbers = [5, 2, 1, 7, 4]\nnumbers.sort()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.reverse()\nprint(numbers)",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nprint(numbers.count(5))\nnumbers = [5, 2, 1, 7, 4]\nnumbers.sort()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.reverse()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers2 = numbers.copy()",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nnumbers.sort()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers.reverse()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers2 = numbers.copy()\nnumbers.append(10)\nprint(numbers)",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nnumbers.reverse()\nprint(numbers)\nnumbers = [5, 2, 1, 7, 4]\nnumbers2 = numbers.copy()\nnumbers.append(10)\nprint(numbers)",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers = [5, 2, 1, 7, 4]\nnumbers2 = numbers.copy()\nnumbers.append(10)\nprint(numbers)",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers2",
+        "kind": 5,
+        "importPath": "List Methods.1",
+        "description": "List Methods.1",
+        "peekOfCode": "numbers2 = numbers.copy()\nnumbers.append(10)\nprint(numbers)",
+        "detail": "List Methods.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "List Methods.list methods2",
+        "description": "List Methods.list methods2",
+        "peekOfCode": "numbers = [2, 2, 4, 6, 3, 4, 6, 1]\nuniques = []\nfor number in numbers:\n    if number not in uniques:\n        uniques.append(number)\nprint(uniques)",
+        "detail": "List Methods.list methods2",
+        "documentation": {}
+    },
+    {
+        "label": "uniques",
+        "kind": 5,
+        "importPath": "List Methods.list methods2",
+        "description": "List Methods.list methods2",
+        "peekOfCode": "uniques = []\nfor number in numbers:\n    if number not in uniques:\n        uniques.append(number)\nprint(uniques)",
+        "detail": "List Methods.list methods2",
+        "documentation": {}
+    },
+    {
+        "label": "names[0]",
+        "kind": 5,
+        "importPath": "Lists.Lists1",
+        "description": "Lists.Lists1",
+        "peekOfCode": "names[0] = 'CR7'\nprint(names[2:])\nprint(names)",
+        "detail": "Lists.Lists1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Lists.Lists2",
+        "description": "Lists.Lists2",
+        "peekOfCode": "numbers = [3, 6, 2, 8, 4, 10]\nmax = numbers[0]\nfor number in numbers:\n    if number > max:\n        max = number\nprint(max)",
+        "detail": "Lists.Lists2",
+        "documentation": {}
+    },
+    {
+        "label": "max",
+        "kind": 5,
+        "importPath": "Lists.Lists2",
+        "description": "Lists.Lists2",
+        "peekOfCode": "max = numbers[0]\nfor number in numbers:\n    if number > max:\n        max = number\nprint(max)",
+        "detail": "Lists.Lists2",
+        "documentation": {}
+    },
+    {
+        "label": "has_high_income",
+        "kind": 5,
+        "importPath": "Logical Operators.Logical Operators",
+        "description": "Logical Operators.Logical Operators",
+        "peekOfCode": "has_high_income = False\nhas_good_credit = True\nhas_criminal_record = True\nif has_high_income and not has_criminal_record:\n    print(\"Eligible for Loan\")",
+        "detail": "Logical Operators.Logical Operators",
+        "documentation": {}
+    },
+    {
+        "label": "has_good_credit",
+        "kind": 5,
+        "importPath": "Logical Operators.Logical Operators",
+        "description": "Logical Operators.Logical Operators",
+        "peekOfCode": "has_good_credit = True\nhas_criminal_record = True\nif has_high_income and not has_criminal_record:\n    print(\"Eligible for Loan\")",
+        "detail": "Logical Operators.Logical Operators",
+        "documentation": {}
+    },
+    {
+        "label": "has_criminal_record",
+        "kind": 5,
+        "importPath": "Logical Operators.Logical Operators",
+        "description": "Logical Operators.Logical Operators",
+        "peekOfCode": "has_criminal_record = True\nif has_high_income and not has_criminal_record:\n    print(\"Eligible for Loan\")",
+        "detail": "Logical Operators.Logical Operators",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Math Functions.MathFunctios1",
+        "description": "Math Functions.MathFunctios1",
+        "peekOfCode": "x = 3.9\nprint(round(x))\nx = 3.9\nprint(abs(-3.9))",
+        "detail": "Math Functions.MathFunctios1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Math Functions.MathFunctios1",
+        "description": "Math Functions.MathFunctios1",
+        "peekOfCode": "x = 3.9\nprint(abs(-3.9))",
+        "detail": "Math Functions.MathFunctios1",
+        "documentation": {}
+    },
+    {
+        "label": "kg_to_lbs",
+        "kind": 2,
+        "importPath": "Modules.1",
+        "description": "Modules.1",
+        "peekOfCode": "def kg_to_lbs(param):\n    pass\nkg_to_lbs(100)\nprint(converters.kg_to_lb(90))\nfrom utills import find_max\nnumbers = [10, 3, 6, 2]\nmaximum = find_max(numbers)\nprint(maximum(numbers))",
+        "detail": "Modules.1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Modules.1",
+        "description": "Modules.1",
+        "peekOfCode": "numbers = [10, 3, 6, 2]\nmaximum = find_max(numbers)\nprint(maximum(numbers))",
+        "detail": "Modules.1",
+        "documentation": {}
+    },
+    {
+        "label": "maximum",
+        "kind": 5,
+        "importPath": "Modules.1",
+        "description": "Modules.1",
+        "peekOfCode": "maximum = find_max(numbers)\nprint(maximum(numbers))",
+        "detail": "Modules.1",
+        "documentation": {}
+    },
+    {
+        "label": "lbs_to_kg",
+        "kind": 2,
+        "importPath": "Modules.converters",
+        "description": "Modules.converters",
+        "peekOfCode": "def lbs_to_kg(weight):\n    return weight * 0.45\ndef kg_to_lb(weight):\n    return weight / 0.45",
+        "detail": "Modules.converters",
+        "documentation": {}
+    },
+    {
+        "label": "kg_to_lb",
+        "kind": 2,
+        "importPath": "Modules.converters",
+        "description": "Modules.converters",
+        "peekOfCode": "def kg_to_lb(weight):\n    return weight / 0.45",
+        "detail": "Modules.converters",
+        "documentation": {}
+    },
+    {
+        "label": "find_max",
+        "kind": 2,
+        "importPath": "Modules.utills",
+        "description": "Modules.utills",
+        "peekOfCode": "def find_max(numbers):\n    numbers = [10, 3, 6, 2]\n    maximum = numbers[0]\n    for number in numbers:\n        if number > maximum:\n            maximum = number\n    return maximum",
+        "detail": "Modules.utills",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Nested Loops.nested loops2",
+        "description": "Nested Loops.nested loops2",
+        "peekOfCode": "numbers = [5, 2, 5, 2, 2]\nfor x_count in numbers:\n    output = ''\n    for count in range(x_count):\n        output += 'x'\n    print(output)",
+        "detail": "Nested Loops.nested loops2",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Nested Loops.nested loops3",
+        "description": "Nested Loops.nested loops3",
+        "peekOfCode": "numbers = [1, 1, 1, 1, 5]\nfor x_count in numbers: \n    output = ''\n    for count in range (x_count):\n        output += 'x'\n    print(output)",
+        "detail": "Nested Loops.nested loops3",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Operator Precedence.OperatorPrecendence1",
+        "description": "Operator Precedence.OperatorPrecendence1",
+        "peekOfCode": "x = (10 + 3) * 2 ** 2\nprint(x)\nx = ( 2 + 3 ) * 10 - 3\nprint(x)",
+        "detail": "Operator Precedence.OperatorPrecendence1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Operator Precedence.OperatorPrecendence1",
+        "description": "Operator Precedence.OperatorPrecendence1",
+        "peekOfCode": "x = ( 2 + 3 ) * 10 - 3\nprint(x)",
+        "detail": "Operator Precedence.OperatorPrecendence1",
+        "documentation": {}
+    },
+    {
+        "label": "calc_shipping",
+        "kind": 2,
+        "importPath": "Packages.Ecommerce.shipping",
+        "description": "Packages.Ecommerce.shipping",
+        "peekOfCode": "def calc_shipping():\n    print(\"calc_shipping\")",
+        "detail": "Packages.Ecommerce.shipping",
+        "documentation": {}
+    },
+    {
+        "label": "per_calc",
+        "kind": 2,
+        "importPath": "Parameters.Parameters1",
+        "description": "Parameters.Parameters1",
+        "peekOfCode": "def per_calc(numbers_obtained):\n    total = 100\n    increase = total - numbers_obtained\n    result = (numbers_obtained / increase) * 100\n    print(result)\nper_calc(90)\ndef diff_calc(numbers_obtained):\n    total = 200\n    result = total - numbers_obtained\n    print(result)",
+        "detail": "Parameters.Parameters1",
+        "documentation": {}
+    },
+    {
+        "label": "diff_calc",
+        "kind": 2,
+        "importPath": "Parameters.Parameters1",
+        "description": "Parameters.Parameters1",
+        "peekOfCode": "def diff_calc(numbers_obtained):\n    total = 200\n    result = total - numbers_obtained\n    print(result)\ndiff_calc(70)\ndef greet_user(first_name, last_name):\n    print(f'Hi{first_name} {last_name}!')\n    print('Welcome aboard')\nprint(\"Start\")\ngreet_user(\"Fahad\", \"Hafeez\")",
+        "detail": "Parameters.Parameters1",
+        "documentation": {}
+    },
+    {
+        "label": "greet_user",
+        "kind": 2,
+        "importPath": "Parameters.Parameters1",
+        "description": "Parameters.Parameters1",
+        "peekOfCode": "def greet_user(first_name, last_name):\n    print(f'Hi{first_name} {last_name}!')\n    print('Welcome aboard')\nprint(\"Start\")\ngreet_user(\"Fahad\", \"Hafeez\")\nprint(\"Finish\")",
+        "detail": "Parameters.Parameters1",
+        "documentation": {}
+    },
+    {
+        "label": "number_1",
+        "kind": 5,
+        "importPath": "Practise.Calc 1",
+        "description": "Practise.Calc 1",
+        "peekOfCode": "number_1 = int(input('Enter your first number:'))\nnumber_2 = int(input('Enter your second number:'))\noperator = str(input('Enter your operator'))\nif operator=='+':\n    print(number_1 + number_2)\nelif operator=='-':\n    print(number_1 - number_2)\nelif operator=='*':\n    print(number_1 * number_2)\nelif operator=='/':",
+        "detail": "Practise.Calc 1",
+        "documentation": {}
+    },
+    {
+        "label": "number_2",
+        "kind": 5,
+        "importPath": "Practise.Calc 1",
+        "description": "Practise.Calc 1",
+        "peekOfCode": "number_2 = int(input('Enter your second number:'))\noperator = str(input('Enter your operator'))\nif operator=='+':\n    print(number_1 + number_2)\nelif operator=='-':\n    print(number_1 - number_2)\nelif operator=='*':\n    print(number_1 * number_2)\nelif operator=='/':\n    print(number_1 / number_2)",
+        "detail": "Practise.Calc 1",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 5,
+        "importPath": "Practise.Calc 1",
+        "description": "Practise.Calc 1",
+        "peekOfCode": "operator = str(input('Enter your operator'))\nif operator=='+':\n    print(number_1 + number_2)\nelif operator=='-':\n    print(number_1 - number_2)\nelif operator=='*':\n    print(number_1 * number_2)\nelif operator=='/':\n    print(number_1 / number_2)\nelse:",
+        "detail": "Practise.Calc 1",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "Practise.List",
+        "description": "Practise.List",
+        "peekOfCode": "i = 1\nwhile i <= 10:\n    print(i)\n    i = i + 1\nprint(\"Done\")",
+        "detail": "Practise.List",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "Practise.List2",
+        "description": "Practise.List2",
+        "peekOfCode": "l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nfor i in l:\n    if i % 2 == 0:\n        print(i)",
+        "detail": "Practise.List2",
+        "documentation": {}
+    },
+    {
+        "label": "wb",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "peekOfCode": "wb = xl.load_workbook('transactions.xlsx')\nsheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nfor row in range(1, sheet.max_row + 1):\n    print(row)",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "documentation": {}
+    },
+    {
+        "label": "sheet",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "peekOfCode": "sheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nfor row in range(1, sheet.max_row + 1):\n    print(row)",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "peekOfCode": "cell = sheet['a1']\ncell = sheet.cell(1, 1)\nfor row in range(1, sheet.max_row + 1):\n    print(row)",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "peekOfCode": "cell = sheet.cell(1, 1)\nfor row in range(1, sheet.max_row + 1):\n    print(row)",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet3",
+        "documentation": {}
+    },
+    {
+        "label": "wb",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "peekOfCode": "wb = xl.load_workbook('transactions.xlsx')\nsheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)\nfor row in range(2, sheet.max_row + 1):\n    cell = sheet.cell(row, 3)\n    print(cell.value)",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "documentation": {}
+    },
+    {
+        "label": "sheet",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "peekOfCode": "sheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)\nfor row in range(2, sheet.max_row + 1):\n    cell = sheet.cell(row, 3)\n    print(cell.value)",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "peekOfCode": "cell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)\nfor row in range(2, sheet.max_row + 1):\n    cell = sheet.cell(row, 3)\n    print(cell.value)",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "peekOfCode": "cell = sheet.cell(1, 1)\nprint(sheet.max_row)\nfor row in range(2, sheet.max_row + 1):\n    cell = sheet.cell(row, 3)\n    print(cell.value)",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet4",
+        "documentation": {}
+    },
+    {
+        "label": "wb",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "peekOfCode": "wb = xl.load_workbook('transactions.xlsx')\nsheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)\nfor row in range(2, sheet.max_row + 1):\n    cell = sheet.cell(row, 3)\n    corrected_price = cell.value * 0.9\n    corrected_price_cell = sheet.cell(row, 4)\n    corrected_price_cell = corrected_price",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "documentation": {}
+    },
+    {
+        "label": "sheet",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "peekOfCode": "sheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)\nfor row in range(2, sheet.max_row + 1):\n    cell = sheet.cell(row, 3)\n    corrected_price = cell.value * 0.9\n    corrected_price_cell = sheet.cell(row, 4)\n    corrected_price_cell = corrected_price\nwb.save('transactions2.xlsx')",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "peekOfCode": "cell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)\nfor row in range(2, sheet.max_row + 1):\n    cell = sheet.cell(row, 3)\n    corrected_price = cell.value * 0.9\n    corrected_price_cell = sheet.cell(row, 4)\n    corrected_price_cell = corrected_price\nwb.save('transactions2.xlsx')",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "peekOfCode": "cell = sheet.cell(1, 1)\nprint(sheet.max_row)\nfor row in range(2, sheet.max_row + 1):\n    cell = sheet.cell(row, 3)\n    corrected_price = cell.value * 0.9\n    corrected_price_cell = sheet.cell(row, 4)\n    corrected_price_cell = corrected_price\nwb.save('transactions2.xlsx')",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet5",
+        "documentation": {}
+    },
+    {
+        "label": "process_workbook",
+        "kind": 2,
+        "importPath": "Projects.Automation with Python.ExcelSpreadSheet6",
+        "description": "Projects.Automation with Python.ExcelSpreadSheet6",
+        "peekOfCode": "def process_workbook(filename):\n    wb = xl.load_workbook(filename)\n    sheet = wb['Sheet1']\n    for row in range(2, sheet.max_row + 1):\n        cell = sheet.cell(row, 3)\n        corrected_price = cell.value * 0.9\n        corrected_price_cell = sheet.cell(row, 4)\n        corrected_price_cell = corrected_price\n    values = Reference(sheet,\n             min_row=2,",
+        "detail": "Projects.Automation with Python.ExcelSpreadSheet6",
+        "documentation": {}
+    },
+    {
+        "label": "wb",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreedSheet",
+        "description": "Projects.Automation with Python.ExcelSpreedSheet",
+        "peekOfCode": "wb = xl.load_workbook('transactions.xlsx')\nsheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(cell.value)",
+        "detail": "Projects.Automation with Python.ExcelSpreedSheet",
+        "documentation": {}
+    },
+    {
+        "label": "sheet",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreedSheet",
+        "description": "Projects.Automation with Python.ExcelSpreedSheet",
+        "peekOfCode": "sheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(cell.value)",
+        "detail": "Projects.Automation with Python.ExcelSpreedSheet",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreedSheet",
+        "description": "Projects.Automation with Python.ExcelSpreedSheet",
+        "peekOfCode": "cell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(cell.value)",
+        "detail": "Projects.Automation with Python.ExcelSpreedSheet",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreedSheet",
+        "description": "Projects.Automation with Python.ExcelSpreedSheet",
+        "peekOfCode": "cell = sheet.cell(1, 1)\nprint(cell.value)",
+        "detail": "Projects.Automation with Python.ExcelSpreedSheet",
+        "documentation": {}
+    },
+    {
+        "label": "wb",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "description": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "peekOfCode": "wb = xl.load_workbook('transactions.xlsx')\nsheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)",
+        "detail": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "documentation": {}
+    },
+    {
+        "label": "sheet",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "description": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "peekOfCode": "sheet = wb['Sheet1']\ncell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)",
+        "detail": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "description": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "peekOfCode": "cell = sheet['a1']\ncell = sheet.cell(1, 1)\nprint(sheet.max_row)",
+        "detail": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "documentation": {}
+    },
+    {
+        "label": "cell",
+        "kind": 5,
+        "importPath": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "description": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "peekOfCode": "cell = sheet.cell(1, 1)\nprint(sheet.max_row)",
+        "detail": "Projects.Automation with Python.ExcelSpreedSheet2",
+        "documentation": {}
+    },
+    {
+        "label": "command",
+        "kind": 5,
+        "importPath": "Projects.Games.Car Games.Car Game",
+        "description": "Projects.Games.Car Games.Car Game",
+        "peekOfCode": "command = \"\"\nstarted = False\nwhile  True:\n    command = input(\"> \").lower()\nif command == \"start\":\n    if started:\n        print(\"Car has already been started!\")\n    else:\n        started = True\n    print(\"Car started...\")",
+        "detail": "Projects.Games.Car Games.Car Game",
+        "documentation": {}
+    },
+    {
+        "label": "started",
+        "kind": 5,
+        "importPath": "Projects.Games.Car Games.Car Game",
+        "description": "Projects.Games.Car Games.Car Game",
+        "peekOfCode": "started = False\nwhile  True:\n    command = input(\"> \").lower()\nif command == \"start\":\n    if started:\n        print(\"Car has already been started!\")\n    else:\n        started = True\n    print(\"Car started...\")\nelif command.lower() == \"stop\":",
+        "detail": "Projects.Games.Car Games.Car Game",
+        "documentation": {}
+    },
+    {
+        "label": "secret_number",
+        "kind": 5,
+        "importPath": "Projects.Games.Gussing Game.Guessing Game",
+        "description": "Projects.Games.Gussing Game.Guessing Game",
+        "peekOfCode": "secret_number = 19\nguess_count = 0\nguess_limit = 3\nwhile guess_count < guess_limit:\n    guess = int(input('Guess'))\n    guess_count += 1\n    if guess == secret_number:\n        print('Yesss, You Won!')\n        break\nelse:",
+        "detail": "Projects.Games.Gussing Game.Guessing Game",
+        "documentation": {}
+    },
+    {
+        "label": "guess_count",
+        "kind": 5,
+        "importPath": "Projects.Games.Gussing Game.Guessing Game",
+        "description": "Projects.Games.Gussing Game.Guessing Game",
+        "peekOfCode": "guess_count = 0\nguess_limit = 3\nwhile guess_count < guess_limit:\n    guess = int(input('Guess'))\n    guess_count += 1\n    if guess == secret_number:\n        print('Yesss, You Won!')\n        break\nelse:\n    print('Sorry, you failed')",
+        "detail": "Projects.Games.Gussing Game.Guessing Game",
+        "documentation": {}
+    },
+    {
+        "label": "guess_limit",
+        "kind": 5,
+        "importPath": "Projects.Games.Gussing Game.Guessing Game",
+        "description": "Projects.Games.Gussing Game.Guessing Game",
+        "peekOfCode": "guess_limit = 3\nwhile guess_count < guess_limit:\n    guess = int(input('Guess'))\n    guess_count += 1\n    if guess == secret_number:\n        print('Yesss, You Won!')\n        break\nelse:\n    print('Sorry, you failed')",
+        "detail": "Projects.Games.Gussing Game.Guessing Game",
+        "documentation": {}
+    },
+    {
+        "label": "weight",
+        "kind": 5,
+        "importPath": "Projects.Project Weight Converter.Project Weight Converter",
+        "description": "Projects.Project Weight Converter.Project Weight Converter",
+        "peekOfCode": "weight = int(input('Weight:'))\nunit = input('(L)bs or (K)g:')\nif unit.upper() == \"L\":\n    converted = weight * 0.45\n    print(f\"You are {converted} kilos\")\nelse:\n    converted = weight / 0.45\n    print(f\"You are {converted} pounds\")",
+        "detail": "Projects.Project Weight Converter.Project Weight Converter",
+        "documentation": {}
+    },
+    {
+        "label": "unit",
+        "kind": 5,
+        "importPath": "Projects.Project Weight Converter.Project Weight Converter",
+        "description": "Projects.Project Weight Converter.Project Weight Converter",
+        "peekOfCode": "unit = input('(L)bs or (K)g:')\nif unit.upper() == \"L\":\n    converted = weight * 0.45\n    print(f\"You are {converted} kilos\")\nelse:\n    converted = weight / 0.45\n    print(f\"You are {converted} pounds\")",
+        "detail": "Projects.Project Weight Converter.Project Weight Converter",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.asgi",
+        "description": "pyshop.pyshop.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "pyshop.pyshop.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve(strict=True).parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '36j+x+8p9cb^m1zy6i!gbpne6!!atw=9d=%2ak9p%edi#7x#oo'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "SECRET_KEY = '36j+x+8p9cb^m1zy6i!gbpne6!!atw=9d=%2ak9p%edi#7x#oo'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'pyshop.urls'",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "ROOT_URLCONF = 'pyshop.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'pyshop.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.settings",
+        "description": "pyshop.pyshop.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "pyshop.pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.urls",
+        "description": "pyshop.pyshop.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "detail": "pyshop.pyshop.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pyshop.pyshop.wsgi",
+        "description": "pyshop.pyshop.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "pyshop.pyshop.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pyshop.asgi",
+        "description": "pyshop.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "pyshop.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pyshop.manage",
+        "description": "pyshop.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pyshop.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "pyshop.manage",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve(strict=True).parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'l!g9k8&89t)0xf6r7m8y%n$h-1kh)kq)4i#dvhf2cb1=q-fx2i'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "SECRET_KEY = 'l!g9k8&89t)0xf6r7m8y%n$h-1kh)kq)4i#dvhf2cb1=q-fx2i'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'pyshop.urls'",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "ROOT_URLCONF = 'pyshop.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'pyshop.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "pyshop.settings",
+        "description": "pyshop.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "pyshop.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pyshop.urls",
+        "description": "pyshop.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "detail": "pyshop.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pyshop.wsgi",
+        "description": "pyshop.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "pyshop.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Recieving Input.recievinginput",
+        "description": "Recieving Input.recievinginput",
+        "peekOfCode": "name = input(\"What is your name?\")\nprint(\"Hi\" + name)\nfavourite_color = input(\"What is your favourite color?\")\nprint(\"Favourite Color\" + favourite_color)\nprint(name + \" likes Hafeez\" + favourite_color)",
+        "detail": "Recieving Input.recievinginput",
+        "documentation": {}
+    },
+    {
+        "label": "favourite_color",
+        "kind": 5,
+        "importPath": "Recieving Input.recievinginput",
+        "description": "Recieving Input.recievinginput",
+        "peekOfCode": "favourite_color = input(\"What is your favourite color?\")\nprint(\"Favourite Color\" + favourite_color)\nprint(name + \" likes Hafeez\" + favourite_color)",
+        "detail": "Recieving Input.recievinginput",
+        "documentation": {}
+    },
+    {
+        "label": "square",
+        "kind": 2,
+        "importPath": "Return Statement.1",
+        "description": "Return Statement.1",
+        "peekOfCode": "def square(number):\n    return number * number\nprint(square(3))\ndef square(number):\n    print(number * number)\nprint(square(3))",
+        "detail": "Return Statement.1",
+        "documentation": {}
+    },
+    {
+        "label": "square",
+        "kind": 2,
+        "importPath": "Return Statement.1",
+        "description": "Return Statement.1",
+        "peekOfCode": "def square(number):\n    print(number * number)\nprint(square(3))",
+        "detail": "Return Statement.1",
+        "documentation": {}
+    },
+    {
+        "label": "course",
+        "kind": 5,
+        "importPath": "String Methods.stringmethod1",
+        "description": "String Methods.stringmethod1",
+        "peekOfCode": "course = \"Python for Beginners\"\nprint(len(course))\ncourse.upper()",
+        "detail": "String Methods.stringmethod1",
+        "documentation": {}
+    },
+    {
+        "label": "course",
+        "kind": 5,
+        "importPath": "String Methods.stringmethod2",
+        "description": "String Methods.stringmethod2",
+        "peekOfCode": "course = 'Python for Beginners'\ncourse.upper()\ncourse.lower()\ncourse.title()\ncourse.find()\ncourse.replace()\nprint(course.upper())\nprint(course.lower())\nprint(course)\nprint(course.find('Beginners'))",
+        "detail": "String Methods.stringmethod2",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "Strings.string2",
+        "description": "Strings.string2",
+        "peekOfCode": "fruits = [\"bat\", \"shirt\", \"house\"]\nfor x in fruits:\n    print(x)\n'''\nv_type=\"bat\"\nv_type2=\"shirt\" '''\n#if x==v_type:",
+        "detail": "Strings.string2",
+        "documentation": {}
+    },
+    {
+        "label": "another",
+        "kind": 5,
+        "importPath": "Strings.string3",
+        "description": "Strings.string3",
+        "peekOfCode": "another = course[:]\nprint(another)",
+        "detail": "Strings.string3",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Strings.string4",
+        "description": "Strings.string4",
+        "peekOfCode": "name = \"Fahad\"\nprint(name[1:-1])",
+        "detail": "Strings.string4",
+        "documentation": {}
+    },
+    {
+        "label": "course",
+        "kind": 5,
+        "importPath": "Strings.strings",
+        "description": "Strings.strings",
+        "peekOfCode": "course = '''\nHi John,\nHere is my first email to you.\nThank you, \nThe support team\n'''\nprint(course)",
+        "detail": "Strings.strings",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Tuples.Tuples",
+        "description": "Tuples.Tuples",
+        "peekOfCode": "numbers = [1, 2, 3]\nnumbers[0] = 10\nprint(numbers[0])",
+        "detail": "Tuples.Tuples",
+        "documentation": {}
+    },
+    {
+        "label": "numbers[0]",
+        "kind": 5,
+        "importPath": "Tuples.Tuples",
+        "description": "Tuples.Tuples",
+        "peekOfCode": "numbers[0] = 10\nprint(numbers[0])",
+        "detail": "Tuples.Tuples",
+        "documentation": {}
+    },
+    {
+        "label": "birth_year",
+        "kind": 5,
+        "importPath": "Type Conversions.typeconversion",
+        "description": "Type Conversions.typeconversion",
+        "peekOfCode": "birth_year = input(\"Birth Year\")\nprint(type(birth_year))\nage = 2020 - int(birth_year)\nprint(type(age))\nprint(age)",
+        "detail": "Type Conversions.typeconversion",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Type Conversions.typeconversion",
+        "description": "Type Conversions.typeconversion",
+        "peekOfCode": "age = 2020 - int(birth_year)\nprint(type(age))\nprint(age)",
+        "detail": "Type Conversions.typeconversion",
+        "documentation": {}
+    },
+    {
+        "label": "weight_lbs",
+        "kind": 5,
+        "importPath": "Type Conversions.typeconversion2",
+        "description": "Type Conversions.typeconversion2",
+        "peekOfCode": "weight_lbs = input(\"Weight(lbs): \")\nweight_kg = int(weight_lbs) * 0.45\nprint(weight_kg)",
+        "detail": "Type Conversions.typeconversion2",
+        "documentation": {}
+    },
+    {
+        "label": "weight_kg",
+        "kind": 5,
+        "importPath": "Type Conversions.typeconversion2",
+        "description": "Type Conversions.typeconversion2",
+        "peekOfCode": "weight_kg = int(weight_lbs) * 0.45\nprint(weight_kg)",
+        "detail": "Type Conversions.typeconversion2",
+        "documentation": {}
+    },
+    {
+        "label": "coordinates",
+        "kind": 5,
+        "importPath": "Unpacking.1",
+        "description": "Unpacking.1",
+        "peekOfCode": "coordinates = (1, 2, 3)\nx = coordinates[0]\ny = coordinates[1]\nz = coordinates[2]\nx, y, z = coordinates\nprint(x)",
+        "detail": "Unpacking.1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Unpacking.1",
+        "description": "Unpacking.1",
+        "peekOfCode": "x = coordinates[0]\ny = coordinates[1]\nz = coordinates[2]\nx, y, z = coordinates\nprint(x)",
+        "detail": "Unpacking.1",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Unpacking.1",
+        "description": "Unpacking.1",
+        "peekOfCode": "y = coordinates[1]\nz = coordinates[2]\nx, y, z = coordinates\nprint(x)",
+        "detail": "Unpacking.1",
+        "documentation": {}
+    },
+    {
+        "label": "z",
+        "kind": 5,
+        "importPath": "Unpacking.1",
+        "description": "Unpacking.1",
+        "peekOfCode": "z = coordinates[2]\nx, y, z = coordinates\nprint(x)",
+        "detail": "Unpacking.1",
+        "documentation": {}
+    },
+    {
+        "label": "price",
+        "kind": 5,
+        "importPath": "Variables.Variables",
+        "description": "Variables.Variables",
+        "peekOfCode": "price = 10\nrating = 4.9\nname = \"Fahad\"\nis_published = False\nprint(price)",
+        "detail": "Variables.Variables",
+        "documentation": {}
+    },
+    {
+        "label": "rating",
+        "kind": 5,
+        "importPath": "Variables.Variables",
+        "description": "Variables.Variables",
+        "peekOfCode": "rating = 4.9\nname = \"Fahad\"\nis_published = False\nprint(price)",
+        "detail": "Variables.Variables",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Variables.Variables",
+        "description": "Variables.Variables",
+        "peekOfCode": "name = \"Fahad\"\nis_published = False\nprint(price)",
+        "detail": "Variables.Variables",
+        "documentation": {}
+    },
+    {
+        "label": "is_published",
+        "kind": 5,
+        "importPath": "Variables.Variables",
+        "description": "Variables.Variables",
+        "peekOfCode": "is_published = False\nprint(price)",
+        "detail": "Variables.Variables",
+        "documentation": {}
+    },
+    {
+        "label": "full_name",
+        "kind": 5,
+        "importPath": "Variables.Variables1",
+        "description": "Variables.Variables1",
+        "peekOfCode": "full_name = \"John Smith\"\nage = 20\nis_new = True",
+        "detail": "Variables.Variables1",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Variables.Variables1",
+        "description": "Variables.Variables1",
+        "peekOfCode": "age = 20\nis_new = True",
+        "detail": "Variables.Variables1",
+        "documentation": {}
+    },
+    {
+        "label": "is_new",
+        "kind": 5,
+        "importPath": "Variables.Variables1",
+        "description": "Variables.Variables1",
+        "peekOfCode": "is_new = True",
+        "detail": "Variables.Variables1",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "whileloops.py.whileloops1",
+        "description": "whileloops.py.whileloops1",
+        "peekOfCode": "i = 1\nwhile i <= 5:\n    print ('*' * i)\n    i = i + 1\nprint(\"Done\")",
+        "detail": "whileloops.py.whileloops1",
+        "documentation": {}
+    }
+]

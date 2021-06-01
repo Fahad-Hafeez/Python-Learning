@@ -1,0 +1,5 @@
+name = input("What is your name?")
+print("Hi" + name)
+favourite_color = input("What is your favourite color?")
+print("Favourite Color" + favourite_color)
+print(name + " likes Hafeez" + favourite_color)
